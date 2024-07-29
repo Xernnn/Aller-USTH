@@ -1,0 +1,64 @@
+\contentsline {section}{ACKNOWLEDGEMENTS}{iii}{}%
+\contentsline {section}{LIST OF ABBREVIATIONS}{iv}{}%
+\contentsline {section}{LIST OF TABLES}{v}{}%
+\contentsline {section}{LIST OF FIGURES}{vi}{}%
+\contentsline {section}{ABSTRACT}{vii}{}%
+\contentsline {section}{\numberline {1}INTRODUCTION}{1}{}%
+\contentsline {subsection}{\numberline {1.1}Context and Motivation}{1}{}%
+\contentsline {subsection}{\numberline {1.2}Objectives}{1}{}%
+\contentsline {subsection}{\numberline {1.3}Proposed Outcomes}{2}{}%
+\contentsline {subsection}{\numberline {1.4}Thesis Structure}{2}{}%
+\contentsline {section}{\numberline {2}RELATED WORKS}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Related Work Analysis}{3}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}Wii Sports}{3}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}Kinect Sports}{3}{}%
+\contentsline {subsubsection}{\numberline {2.1.3}RingFit Adventure}{4}{}%
+\contentsline {subsubsection}{\numberline {2.1.4}Dance Dance Revolution (DDR)}{5}{}%
+\contentsline {subsection}{\numberline {2.2}Key Insights}{5}{}%
+\contentsline {section}{\numberline {3}PROJECT IMPLEMENTATION}{7}{}%
+\contentsline {subsection}{\numberline {3.1}Project Pipeline}{7}{}%
+\contentsline {subsection}{\numberline {3.2}Project Timeline}{7}{}%
+\contentsline {subsection}{\numberline {3.3}Technology Implemented}{8}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}Graphic Design}{8}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}Game Engine}{8}{}%
+\contentsline {section}{\numberline {4}MODEL}{9}{}%
+\contentsline {subsection}{\numberline {4.1}Model Architecture}{9}{}%
+\contentsline {subsubsection}{\numberline {4.1.1}MediaPipe Pose}{9}{}%
+\contentsline {subsubsection}{\numberline {4.1.2}MoveNet}{9}{}%
+\contentsline {subsection}{\numberline {4.2}Evaluation Data}{10}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}COCO-WholeBody Dataset}{10}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}Friends' Landmarks Data}{11}{}%
+\contentsline {subsection}{\numberline {4.3}Evaluation}{13}{}%
+\contentsline {subsubsection}{\numberline {4.3.1}Percentage of Correct Keypoints (PCK)}{13}{}%
+\contentsline {subsubsection}{\numberline {4.3.2}Accuracy}{14}{}%
+\contentsline {subsubsection}{\numberline {4.3.3}Precision}{14}{}%
+\contentsline {subsubsection}{\numberline {4.3.4}FPS and Processing Time/Delay}{16}{}%
+\contentsline {subsubsection}{\numberline {4.3.5}Final Results}{17}{}%
+\contentsline {section}{\numberline {5}GAME DESIGN}{18}{}%
+\contentsline {subsection}{\numberline {5.1}Model Implementation Design}{18}{}%
+\contentsline {subsection}{\numberline {5.2}System Design and Analysis}{20}{}%
+\contentsline {subsubsection}{\numberline {5.2.1}System Requirement}{20}{}%
+\contentsline {subsubsection}{\numberline {5.2.2}Game Flow}{21}{}%
+\contentsline {subsection}{\numberline {5.3}Game Assets}{22}{}%
+\contentsline {subsubsection}{\numberline {5.3.1}Player Model}{22}{}%
+\contentsline {subsubsection}{\numberline {5.3.2}Hallway Model}{23}{}%
+\contentsline {subsubsection}{\numberline {5.3.3}Object Model}{24}{}%
+\contentsline {subsection}{\numberline {5.4}Gameplay Design}{26}{}%
+\contentsline {subsubsection}{\numberline {5.4.1}The Main Menu}{26}{}%
+\contentsline {subsubsection}{\numberline {5.4.2}Endless-Running Game Mode}{26}{}%
+\contentsline {subsubsection}{\numberline {5.4.3}Object-Slicing Game Mode}{28}{}%
+\contentsline {subsubsection}{\numberline {5.4.4}Shape-Fitting Game Mode}{29}{}%
+\contentsline {subsubsection}{\numberline {5.4.5}Other Game Aspects}{30}{}%
+\contentsline {section}{\numberline {6}TESTING / EXPERIMENTAL VALIDATION}{31}{}%
+\contentsline {subsection}{\numberline {6.1}Experimental Validation}{31}{}%
+\contentsline {subsubsection}{\numberline {6.1.1}Distance Sensitivity Analysis}{31}{}%
+\contentsline {subsubsection}{\numberline {6.1.2}Response Time Evaluation}{31}{}%
+\contentsline {subsubsection}{\numberline {6.1.3}Caloric Evaluation}{32}{}%
+\contentsline {subsection}{\numberline {6.2}Beta-Testing Evaluation}{34}{}%
+\contentsline {subsubsection}{\numberline {6.2.1}Beta Testing Process}{34}{}%
+\contentsline {subsubsection}{\numberline {6.2.2}Game Experience}{34}{}%
+\contentsline {subsubsection}{\numberline {6.2.3}Other Aspects}{35}{}%
+\contentsline {section}{\numberline {7}SUMMARY}{36}{}%
+\contentsline {subsection}{\numberline {7.1}Conclusion}{36}{}%
+\contentsline {subsection}{\numberline {7.2}Future Development}{37}{}%
+\contentsline {section}{REFERENCES}{38}{}%

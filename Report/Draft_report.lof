@@ -1,0 +1,39 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Wii Sports: Logo (left) and Gameplay (right).}}{3}{}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Kinect Sports : Logo (left) and Gameplay (right).}}{4}{}%
+\contentsline {figure}{\numberline {3}{\ignorespaces RingFit Adventure: Logo (left) and Gameplay (right).}}{4}{}%
+\contentsline {figure}{\numberline {4}{\ignorespaces DDR: Logo (left) and Gameplay (right).}}{5}{}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Short Workflow.}}{7}{}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Blender Screenshots.}}{8}{}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Unity Screenshot.}}{8}{}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Model Pipeline.}}{9}{}%
+\contentsline {figure}{\numberline {9}{\ignorespaces COCO-WholeBody Dataset for Evaluation.}}{11}{}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Friends' Landmarks Data Annotating Process.}}{12}{}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Friends' Landmarks Dataset for Evaluation.}}{12}{}%
+\contentsline {figure}{\numberline {12}{\ignorespaces PCK Comparison between MediaPipe Pose and MoveNet.}}{13}{}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Keypoint Detection Accuracy Comparison between MediaPipe Pose and MoveNet.}}{15}{}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Width Precision Comparison between MediaPipe Pose and MoveNet.}}{16}{}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Height Precision Comparison between MediaPipe Pose and MoveNet.}}{16}{}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Model Implementation Pipeline.}}{18}{}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Original Landmark Position (Left: Shoulder \& Hip; Right: Hand).}}{18}{}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Center Landmark (Left: Body; Right: Hand).}}{19}{}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Center Landmark with Threshold lines.}}{19}{}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Upper Body Landmark.}}{20}{}%
+\contentsline {figure}{\numberline {21}{\ignorespaces All Body Landmarks Together.}}{20}{}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Game Flow.}}{21}{}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Player Model.}}{22}{}%
+\contentsline {figure}{\numberline {24}{\ignorespaces In-between Hallways with Comparison.}}{23}{}%
+\contentsline {figure}{\numberline {25}{\ignorespaces 6th floor Hallways with Comparison.}}{23}{}%
+\contentsline {figure}{\numberline {26}{\ignorespaces 4th floor Hallways with Comparison.}}{23}{}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Big Table with Comparison.}}{24}{}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Black Chair with Comparison.}}{24}{}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Long Chair with Comparison.}}{25}{}%
+\contentsline {figure}{\numberline {30}{\ignorespaces Wood Table with Comparison.}}{25}{}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Main Menu Screen.}}{26}{}%
+\contentsline {figure}{\numberline {32}{\ignorespaces Endless-Running Gameplay.}}{27}{}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Game Over Screen.}}{27}{}%
+\contentsline {figure}{\numberline {34}{\ignorespaces Object-Slicing Gameplay.}}{28}{}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Shape-Fitting Gameplay.}}{29}{}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Choose Game Mode.}}{30}{}%
+\contentsline {figure}{\numberline {37}{\ignorespaces Shop Screen.}}{30}{}%
+\contentsline {figure}{\numberline {38}{\ignorespaces Response Time Evaluation for MediaPipe Pose and MoveNet using CPU.}}{32}{}%
+\contentsline {figure}{\numberline {39}{\ignorespaces Survey Screenshots.}}{34}{}%

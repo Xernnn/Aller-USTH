@@ -1,0 +1,178 @@
+\begin{thebibliography}{23}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[har(2004)]{harvard2004}
+Calories burned in 30 minutes of leisure and routine activities.
+\newblock Harvard Health, July 2004.
+\newblock URL
+  \url{https://www.health.harvard.edu/diet-and-weight-loss/calories-burned-in-30-minutes-for-people-of-three-different-weights}.
+
+\bibitem[vin(2019)]{vinmec2019}
+How many calories does jogging for 30 minutes a day burn?
+\newblock Vinmec, 2019.
+\newblock URL
+  \url{https://www.vinmec.com/en/news/health-news/healthy-lifestyle/how-many-calories-does-jogging-for-30-minutes-a-day-burn/}.
+
+\bibitem[goo(2023)]{google2023}
+Pose landmark detection guide.
+\newblock Google for Developers, 2023.
+\newblock URL
+  \url{https://developers.google.com/mediapipe/solutions/vision/pose_landmarker}.
+
+\bibitem[kag(2024)]{kaggle2024}
+Movenet.
+\newblock Kaggle, 2024.
+\newblock URL
+  \url{https://www.kaggle.com/models/google/movenet/frameworks/tfLite/variations/singlepose-lightning}.
+
+\bibitem[Association(2017)]{aha2017}
+American~Heart Association.
+\newblock American heart association recommendations for physical activity in
+  adults and kids.
+\newblock
+  \url{https://www.heart.org/en/healthy-living/fitness/fitness-basics/aha-recs-for-physical-activity-in-adults},
+  2017.
+
+\bibitem[Baum(2018)]{baum2018}
+I.~Baum.
+\newblock How to burn more calories on your morning commute.
+\newblock Men’s Health, November 2018.
+\newblock URL
+  \url{https://www.menshealth.com/fitness/g25358696/how-to-burn-calories-commuting/}.
+
+\bibitem[Carlson et~al.(2018)Carlson, Adams, Yang, and Fulton]{carlson2018}
+Susan~A. Carlson, Kathleen~E. Adams, Zefeng Yang, and Janet~E. Fulton.
+\newblock Percentage of deaths associated with inadequate physical activity in
+  the united states.
+\newblock \emph{Preventing Chronic Disease}, 15, 2018.
+\newblock \doi{10.5888/pcd18.170354}.
+\newblock URL \url{https://doi.org/10.5888/pcd18.170354}.
+
+\bibitem[Choppin and Wheat(2013)]{kinect2013}
+Simon Choppin and J~Wheat.
+\newblock The potential of the microsoft kinect in sports analysis and
+  biomechanics.
+\newblock \emph{Sports Technology}, 6:\penalty0 37--41, 05 2013.
+\newblock \doi{10.1080/19346182.2013.819008}.
+
+\bibitem[Chung et~al.(2022)Chung, Ong, and Leow]{chung2022}
+J.-L. Chung, L.-Y. Ong, and M.-C. Leow.
+\newblock Comparative analysis of skeleton-based human pose estimation.
+\newblock \emph{Future Internet}, 14\penalty0 (12):\penalty0 380--380, 2022.
+\newblock \doi{10.3390/fi14120380}.
+\newblock URL \url{https://doi.org/10.3390/fi14120380}.
+
+\bibitem[Donahue et~al.(2017)Donahue, Lipton, and McAuley]{ddr2017}
+Chris Donahue, Zachary~C. Lipton, and Julian~J. McAuley.
+\newblock Dance dance convolution.
+\newblock \emph{CoRR}, abs/1703.06891, 2017.
+\newblock URL \url{http://arxiv.org/abs/1703.06891}.
+
+\bibitem[English(2022)]{english2022}
+M.~English.
+\newblock Squat fat burn: How many calories do squats burn?
+\newblock Marca, January 2022.
+\newblock URL
+  \url{https://www.marca.com/en/lifestyle/fitness/2022/01/28/61f42b4b268e3e09778b45b9.html}.
+
+\bibitem[Foster et~al.(2017)Foster, Shilton, Westerman, Varney, and
+  Bull]{who2017}
+Charlie Foster, Trevor Shilton, Lucy Westerman, Justin Varney, and Fiona Bull.
+\newblock World health organisation to develop global action plan to promote
+  physical activity: time for action.
+\newblock \emph{British Journal of Sports Medicine}, 52:\penalty0
+  bjsports--2017, 07 2017.
+\newblock \doi{10.1136/bjsports-2017-098070}.
+
+\bibitem[Frey(2015)]{frey2015}
+M.~Frey.
+\newblock How to burn 100 calories: 10 ways to move more now.
+\newblock Verywell Fit, 2015.
+\newblock URL
+  \url{https://www.verywellfit.com/easy-ways-to-burn-100-calories-3495197}.
+
+\bibitem[Jiang and Tham(2022)]{jiang2022}
+J.~Jiang and J.~Tham.
+\newblock The thing-power of ring fit adventure as embodied play: Tracing new
+  materialist rhetoric across physical and cultural borders.
+\newblock \emph{Computers and Composition}, 65, 2022.
+\newblock \doi{10.1016/j.compcom.2022.102726}.
+\newblock URL \url{https://doi.org/10.1016/j.compcom.2022.102726}.
+
+\bibitem[Jin et~al.(2020)Jin, Xu, Xu, Wang, Liu, Qian, Ouyang, and
+  Luo]{jin2020arxiv}
+S.~Jin, L.~Xu, J.~Xu, C.~Wang, W.~Liu, C.~Qian, W.~Ouyang, and P.~Luo.
+\newblock Whole-body human pose estimation in the wild.
+\newblock ArXiv, 2020.
+\newblock URL \url{https://arxiv.org/abs/2007.11858}.
+
+\bibitem[jin s13(2020)]{jin2020github}
+jin s13.
+\newblock Coco-wholebody: Eccv2020 paper "whole-body human pose estimation in
+  the wild.".
+\newblock GitHub, 2020.
+\newblock URL \url{https://github.com/jin-s13/COCO-WholeBody}.
+
+\bibitem[Klasnja et~al.(2022)Klasnja, Milenovic, Lukac, Knezevic, Klasnja, and
+  Karan~Rakic]{klasnja2022}
+Aleksandar Klasnja, Nenad Milenovic, Sasa Lukac, Aleksandar Knezevic, Jovan
+  Klasnja, and Valentina Karan~Rakic.
+\newblock The effects of regular physical activity and playing video games on
+  reaction time in adolescents.
+\newblock \emph{International Journal of Environmental Research and Public
+  Health}, 19\penalty0 (15):\penalty0 9278, 2022.
+\newblock \doi{10.3390/ijerph19159278}.
+\newblock URL \url{https://doi.org/10.3390/ijerph19159278}.
+
+\bibitem[Nintendo(2007)]{wiisports2007}
+Nintendo.
+\newblock Wii sports, 2007.
+\newblock URL
+  \url{https://www.nintendo.com/en-za/Games/Wii/Wii-Sports-283971.html}.
+\newblock Accessed: 2024-06-30.
+
+\bibitem[of~Southern~California(2023)]{usc2023}
+University of~Southern~California.
+\newblock Large amounts of sedentary time linked with higher risk of dementia
+  in older adults, study shows.
+\newblock \url{https://www.sciencedaily.com/releases/2023/09/230912113525.htm},
+  September 2023.
+
+\bibitem[Sherbal(2020)]{sherbal2020}
+J.~Sherbal.
+\newblock Wii sports: The tech demo that changed how we game.
+\newblock Medium, September 2020.
+\newblock URL
+  \url{https://sherbal-j.medium.com/wii-sports-a-revolutionary-game-6acbab61e4d4}.
+
+\bibitem[Wijman(2023)]{wijman2023}
+Tom Wijman.
+\newblock Newzoo’s year in review: The 2023 global games market in numbers.
+\newblock Newzoo, December 2023.
+\newblock URL
+  \url{https://newzoo.com/resources/blog/video-games-in-2023-the-year-in-numbers}.
+
+\bibitem[Wu et~al.(2021)Wu, Wang, Chan, Chiu, Lin, Chang, Wu, and
+  et~al.]{ring2021}
+Yi-Syuan Wu, Wei-Yun Wang, Ta-Chien Chan, Yu-Lung Chiu, Hung-Che Lin, Yu~Tien
+  Chang, Hao-Yi Wu, and et~al.
+\newblock Effect of the nintendo ring fit adventure exergame on running
+  completion time and psychological factors among university students engaging
+  in distance learning during the covid-19 pandemic: A randomized prospective
+  study.
+\newblock \emph{JMIR Serious Games}, 10, 11 2021.
+\newblock \doi{10.2196/35040}.
+
+\bibitem[Zhang(2012)]{zhang2012}
+Z.~Zhang.
+\newblock Microsoft kinect sensor and its effect.
+\newblock ResearchGate; IEEE (Institute of Electrical and Electronics
+  Engineers), February 2012.
+\newblock URL
+  \url{https://www.researchgate.net/publication/254058710_Microsoft_Kinect_Sensor_and_Its_Effect}.
+
+\end{thebibliography}

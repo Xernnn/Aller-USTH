@@ -1,0 +1,1556 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.6.30)  11 JUL 2024 02:53
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**c:/Users/stdso/Documents/USTH/intern/Report/Draft_report.tex
+(c:/Users/stdso/Documents/USTH/intern/Report/Draft_report.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count195
+\Gm@cntv=\count196
+\c@Gm@tempcnt=\count197
+\Gm@bindingoffset=\dimen143
+\Gm@wd@mp=\dimen144
+\Gm@odd@mp=\dimen145
+\Gm@even@mp=\dimen146
+\Gm@layoutwidth=\dimen147
+\Gm@layoutheight=\dimen148
+\Gm@layouthoffset=\dimen149
+\Gm@layoutvoffset=\dimen150
+\Gm@dimlist=\toks18
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks19
+\pgfutil@tempdima=\dimen151
+\pgfutil@tempdimb=\dimen152
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box51
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks22
+))
+\pgf@x=\dimen153
+\pgf@y=\dimen154
+\pgf@xa=\dimen155
+\pgf@ya=\dimen156
+\pgf@xb=\dimen157
+\pgf@yb=\dimen158
+\pgf@xc=\dimen159
+\pgf@yc=\dimen160
+\pgf@xd=\dimen161
+\pgf@yd=\dimen162
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count198
+\c@pgf@countb=\count199
+\c@pgf@countc=\count266
+\c@pgf@countd=\count267
+\t@pgf@toka=\toks23
+\t@pgf@tokb=\toks24
+\t@pgf@tokc=\toks25
+\pgf@sys@id@count=\count268
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count269
+\pgfsyssoftpath@bigbuffer@items=\count270
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen163
+\pgfmath@count=\count271
+\pgfmath@box=\box52
+\pgfmath@toks=\toks26
+\pgfmath@stack@operand=\toks27
+\pgfmath@stack@operation=\toks28
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count272
+)) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen164
+\pgf@picmaxx=\dimen165
+\pgf@picminy=\dimen166
+\pgf@picmaxy=\dimen167
+\pgf@pathminx=\dimen168
+\pgf@pathmaxx=\dimen169
+\pgf@pathminy=\dimen170
+\pgf@pathmaxy=\dimen171
+\pgf@xx=\dimen172
+\pgf@xy=\dimen173
+\pgf@yx=\dimen174
+\pgf@yy=\dimen175
+\pgf@zx=\dimen176
+\pgf@zy=\dimen177
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen178
+\pgf@path@lasty=\dimen179
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen180
+\pgf@shorten@start@additional=\dimen181
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box53
+\pgf@hbox=\box54
+\pgf@layerbox@main=\box55
+\pgf@picture@serial@count=\count273
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen182
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen183
+\pgf@pt@y=\dimen184
+\pgf@pt@temp=\dimen185
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen186
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen187
+\pgf@sys@shading@range@num=\count274
+\pgf@shadingcount=\count275
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box56
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box57
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen188
+\pgf@nodesepend=\dimen189
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen190
+\pgffor@skip=\dimen191
+\pgffor@stack=\toks29
+\pgffor@toks=\toks30
+)) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count276
+\pgfplotmarksize=\dimen192
+)
+\tikz@lastx=\dimen193
+\tikz@lasty=\dimen194
+\tikz@lastxsaved=\dimen195
+\tikz@lastysaved=\dimen196
+\tikz@lastmovetox=\dimen197
+\tikz@lastmovetoy=\dimen198
+\tikzleveldistance=\dimen199
+\tikzsiblingdistance=\dimen256
+\tikz@figbox=\box58
+\tikz@figbox@bg=\box59
+\tikz@tempbox=\box60
+\tikz@tempbox@bg=\box61
+\tikztreelevel=\count277
+\tikznumberofchildren=\count278
+\tikznumberofcurrentchild=\count279
+\tikz@fig@count=\count280
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count281
+\pgfmatrixcurrentcolumn=\count282
+\pgf@matrix@numberofcolumns=\count283
+)
+\tikz@expandcount=\count284
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip50
+\cftbeforetoctitleskip=\skip51
+\cftaftertoctitleskip=\skip52
+\cftbeforepartskip=\skip53
+\cftpartnumwidth=\skip54
+\cftpartindent=\skip55
+\cftbeforesecskip=\skip56
+\cftsecindent=\skip57
+\cftsecnumwidth=\skip58
+\cftbeforesubsecskip=\skip59
+\cftsubsecindent=\skip60
+\cftsubsecnumwidth=\skip61
+\cftbeforesubsubsecskip=\skip62
+\cftsubsubsecindent=\skip63
+\cftsubsubsecnumwidth=\skip64
+\cftbeforeparaskip=\skip65
+\cftparaindent=\skip66
+\cftparanumwidth=\skip67
+\cftbeforesubparaskip=\skip68
+\cftsubparaindent=\skip69
+\cftsubparanumwidth=\skip70
+\cftbeforeloftitleskip=\skip71
+\cftafterloftitleskip=\skip72
+\cftbeforefigskip=\skip73
+\cftfigindent=\skip74
+\cftfignumwidth=\skip75
+\c@lofdepth=\count285
+\c@lotdepth=\count286
+\cftbeforelottitleskip=\skip76
+\cftafterlottitleskip=\skip77
+\cftbeforetabskip=\skip78
+\cfttabindent=\skip79
+\cfttabnumwidth=\skip80
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box62
+\beforetitleunit=\skip81
+\aftertitleunit=\skip82
+\ttl@plus=\dimen257
+\ttl@minus=\dimen258
+\ttl@toksa=\toks31
+\titlewidth=\dimen259
+\titlewidthlast=\dimen260
+\titlewidthfirst=\dimen261
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen262
+\ar@mcellbox=\box63
+\extrarowheight=\dimen263
+\NC@list=\toks32
+\extratabsurround=\skip83
+\backup@length=\skip84
+\ar@cellbox=\box64
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen264
+\TX@old@table=\dimen265
+\TX@old@col=\dimen266
+\TX@target=\dimen267
+\TX@delta=\dimen268
+\TX@cols=\count287
+\TX@ftn=\toks33
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2024/05/26 v1.0h Color table columns (DPC)
+\everycr=\toks34
+\minrowclearance=\skip85
+\rownum=\count288
+)
+
+LaTeX Warning: Package "xcolor" has already been loaded: ignoring load-time
+(LaTeX)        option "xcdraw".
+
+(C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen269
+\captionmargin=\dimen270
+\caption@leftmargin=\dimen271
+\caption@rightmargin=\dimen272
+\caption@width=\dimen273
+\caption@indent=\dimen274
+\caption@parindent=\dimen275
+\caption@hangindent=\dimen276
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count289
+\c@continuedfloat=\count290
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count291
+\float@exts=\toks35
+\float@box=\box65
+\@float@everytoks=\toks36
+\@floatcapt=\box66
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip86
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks37
+\ex@=\dimen277
+)) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen278
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count292
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count293
+\leftroot@=\count294
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count295
+\DOTSCASE@=\count296
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box67
+\strutbox@=\box68
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen279
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count297
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count298
+\dotsspace@=\muskip16
+\c@parentequation=\count299
+\dspbrk@lvl=\count300
+\tag@help=\toks38
+\row@=\count301
+\column@=\count302
+\maxfields@=\count303
+\andhelp@=\toks39
+\eqnshift@=\dimen280
+\alignsep@=\dimen281
+\tagshift@=\dimen282
+\tagwidth@=\dimen283
+\totwidth@=\dimen284
+\lineht@=\dimen285
+\@envbody=\toks40
+\multlinegap=\skip87
+\multlinetaggap=\skip88
+\mathdisplay@stack=\toks41
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip89
+\bibsep=\skip90
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count304
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count305
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks42
+\XKV@tempa@toks=\toks43
+)
+\XKV@depth=\count306
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box69
+)
+\tc@llx=\dimen286
+\tc@lly=\dimen287
+\tc@urx=\dimen288
+\tc@ury=\dimen289
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen290
+\adjbox@Height=\dimen291
+\adjbox@Depth=\dimen292
+\adjbox@Totalheight=\dimen293
+\adjbox@pwidth=\dimen294
+\adjbox@pheight=\dimen295
+\adjbox@pdepth=\dimen296
+\adjbox@ptotalheight=\dimen297
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count307
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box70
+\sift@deathcycles=\count308
+\@vwid@loff=\dimen298
+\@vwid@roff=\dimen299
+)) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placeins.sty
+Package: placeins 2005/04/18  v 2.2
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen300
+\lightrulewidth=\dimen301
+\cmidrulewidth=\dimen302
+\belowrulesep=\dimen303
+\belowbottomsep=\dimen304
+\aboverulesep=\dimen305
+\abovetopsep=\dimen306
+\cmidrulesep=\dimen307
+\cmidrulekern=\dimen308
+\defaultaddspace=\dimen309
+\@cmidla=\count309
+\@cmidlb=\count310
+\@aboverulesep=\dimen310
+\@belowrulesep=\dimen311
+\@thisruleclass=\count311
+\@lastruleclass=\count312
+\@thisrulewidth=\dimen312
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count313
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count314
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 47.
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count315
+\l__pdf_internal_box=\box71
+) (Draft_report.aux)
+\openout1 = `Draft_report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count316
+\scratchdimen=\dimen313
+\scratchbox=\box72
+\nofMPsegments=\count317
+\nofMParguments=\count318
+\everyMPshowfont=\toks44
+\MPscratchCnt=\count319
+\MPscratchDim=\dimen314
+\MPnumerator=\count320
+\makeMPintoPDFobject=\count321
+\everyMPtoPDFconversion=\toks45
+) (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(51.21504pt, 495.07779pt, 51.21504pt)
+* v-part:(T,H,B)=(51.21504pt, 742.61676pt, 51.21504pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=495.07779pt
+* \textheight=742.61676pt
+* \oddsidemargin=-21.05495pt
+* \evensidemargin=-21.05495pt
+* \topmargin=-58.05495pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+<usth.png, id=4, 1083.04625pt x 231.86626pt>
+File: usth.png Graphic file (type png)
+<use usth.png>
+Package pdftex.def Info: usth.png  used on input line 63.
+(pdftex.def)             Requested size: 445.56699pt x 95.38773pt.
+[1
+
+{C:/Users/stdso/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/stdso/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./usth.png>] (Draft_report.toc [1])
+\tf@toc=\write4
+\openout4 = `Draft_report.toc'.
+
+ [2]
+Underfull \hbox (badness 10000) in paragraph at lines 104--106
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+ []
+
+[3
+
+]
+Overfull \hbox (11.99998pt too wide) in paragraph at lines 121--143
+[] 
+ []
+
+[4
+
+] (Draft_report.lot)
+\tf@lot=\write5
+\openout5 = `Draft_report.lot'.
+
+ [5
+
+] (Draft_report.lof)
+\tf@lof=\write6
+\openout6 = `Draft_report.lof'.
+
+ [6
+
+] [7
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 170--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--177
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--180
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--184
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--188
+
+ []
+
+[1
+
+]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 194.
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [2]
+<logo-wii.png, id=42, 713.7867pt x 271.0125pt>
+File: logo-wii.png Graphic file (type png)
+<use logo-wii.png>
+Package pdftex.def Info: logo-wii.png  used on input line 237.
+(pdftex.def)             Requested size: 148.52484pt x 56.38911pt.
+<Market-Wii.jpg, id=43, 313.17pt x 235.1184pt>
+File: Market-Wii.jpg Graphic file (type jpg)
+<use Market-Wii.jpg>
+Package pdftex.def Info: Market-Wii.jpg  used on input line 238.
+(pdftex.def)             Requested size: 222.7835pt x 167.26527pt.
+ [3
+
+ <./logo-wii.png> <./Market-Wii.jpg>]
+<logo-kinect.jpg, id=48, 1445.4pt x 813.0375pt>
+File: logo-kinect.jpg Graphic file (type jpg)
+<use logo-kinect.jpg>
+Package pdftex.def Info: logo-kinect.jpg  used on input line 250.
+(pdftex.def)             Requested size: 148.52484pt x 83.54158pt.
+<Market-Kinect.jpg, id=49, 738.76pt x 521.95pt>
+File: Market-Kinect.jpg Graphic file (type jpg)
+<use Market-Kinect.jpg>
+Package pdftex.def Info: Market-Kinect.jpg  used on input line 251.
+(pdftex.def)             Requested size: 222.7835pt x 157.39856pt.
+<logo-ring.jpg, id=50, 1331.97626pt x 905.3825pt>
+File: logo-ring.jpg Graphic file (type jpg)
+<use logo-ring.jpg>
+Package pdftex.def Info: logo-ring.jpg  used on input line 263.
+(pdftex.def)             Requested size: 148.52484pt x 100.94624pt.
+<market-ring.png, id=51, 421.575pt x 235.63031pt>
+File: market-ring.png Graphic file (type png)
+<use market-ring.png>
+Package pdftex.def Info: market-ring.png  used on input line 264.
+(pdftex.def)             Requested size: 222.7835pt x 124.52032pt.
+ [4 <./logo-kinect.jpg> <./Market-Kinect.jpg> <./logo-ring.jpg> <./market-ring.png>]
+<logo-ddr.jpg, id=55, 1027.84pt x 256.96pt>
+File: logo-ddr.jpg Graphic file (type jpg)
+<use logo-ddr.jpg>
+Package pdftex.def Info: logo-ddr.jpg  used on input line 276.
+(pdftex.def)             Requested size: 173.28024pt x 43.31798pt.
+<market-ddr.png, id=56, 1927.2pt x 1084.05pt>
+File: market-ddr.png Graphic file (type png)
+<use market-ddr.png>
+Package pdftex.def Info: market-ddr.png  used on input line 277.
+(pdftex.def)             Requested size: 247.5389pt x 139.22769pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--284
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--290
+
+ []
+
+[5 <./logo-ddr.jpg> <./market-ddr.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 291--292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 293--294
+
+ []
+
+[6]
+<short.drawio.png, id=65, 653.44125pt x 151.56625pt>
+File: short.drawio.png Graphic file (type png)
+<use short.drawio.png>
+Package pdftex.def Info: short.drawio.png  used on input line 331.
+(pdftex.def)             Requested size: 495.07779pt x 114.83307pt.
+
+Overfull \hbox (7.32744pt too wide) in paragraph at lines 360--361
+[][] 
+ []
+
+[7
+
+ <./short.drawio.png>]
+<market-blender.png, id=70, 1155.1155pt x 649.2255pt>
+File: market-blender.png Graphic file (type png)
+<use market-blender.png>
+Package pdftex.def Info: market-blender.png  used on input line 368.
+(pdftex.def)             Requested size: 242.59084pt x 136.34137pt.
+<blend.png, id=71, 1444.64719pt x 812.28468pt>
+File: blend.png Graphic file (type png)
+<use blend.png>
+Package pdftex.def Info: blend.png  used on input line 369.
+(pdftex.def)             Requested size: 242.59084pt x 136.40092pt.
+<unity.png, id=72, 1444.64719pt x 812.28468pt>
+File: unity.png Graphic file (type png)
+<use unity.png>
+Package pdftex.def Info: unity.png  used on input line 376.
+(pdftex.def)             Requested size: 371.30833pt x 208.77211pt.
+ [8
+
+ <./market-blender.png> <./blend.png> <./unity.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 382--383
+
+ []
+
+<ModelEva.drawio.png, id=79, 633.36626pt x 201.75375pt>
+File: ModelEva.drawio.png Graphic file (type png)
+<use ModelEva.drawio.png>
+Package pdftex.def Info: ModelEva.drawio.png  used on input line 386.
+(pdftex.def)             Requested size: 445.56699pt x 141.93471pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--395
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--400
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--404
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 405--409
+
+ []
+
+[9
+
+ <./ModelEva.drawio.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 417--418
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--424
+
+ []
+
+<coco.jpg, id=84, 2356.805pt x 1830.84pt>
+File: coco.jpg Graphic file (type jpg)
+<use coco.jpg>
+Package pdftex.def Info: coco.jpg  used on input line 427.
+(pdftex.def)             Requested size: 346.55293pt x 269.1945pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--439
+
+ []
+
+[10]
+Overfull \hbox (18.06126pt too wide) in paragraph at lines 440--446
+\OT1/ptm/m/n/12 "nose", "left[]hand", "left[]elbow", "left[]shoulder", "right[]shoulder", "right[]elbow", "right[]hand", "left[]hip",
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--446
+
+ []
+
+<friend1.png, id=88, 901.56825pt x 536.0025pt>
+File: friend1.png Graphic file (type png)
+<use friend1.png>
+Package pdftex.def Info: friend1.png  used on input line 453.
+(pdftex.def)             Requested size: 495.07779pt x 294.32791pt.
+[11 <./coco.jpg>]
+<friend3.png, id=93, 450.483pt x 322.806pt>
+File: friend3.png Graphic file (type png)
+<use friend3.png>
+Package pdftex.def Info: friend3.png  used on input line 459.
+(pdftex.def)             Requested size: 222.7835pt x 159.64415pt.
+<friend4.png, id=94, 479.99326pt x 323.40825pt>
+File: friend4.png Graphic file (type png)
+<use friend4.png>
+Package pdftex.def Info: friend4.png  used on input line 460.
+(pdftex.def)             Requested size: 247.5389pt x 166.78656pt.
+ [12 <./friend1.png> <./friend3.png> <./friend4.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 469--470
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 471--472
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 476--479
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 483--486
+
+ []
+
+<pck.png, id=101, 729.47531pt x 384.6872pt>
+File: pck.png Graphic file (type png)
+<use pck.png>
+Package pdftex.def Info: pck.png  used on input line 496.
+(pdftex.def)             Requested size: 396.06374pt x 208.86087pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[13
+
+ <./pck.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--523
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--537
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 542--546
+
+ []
+
+<accucom.png, id=112, 861.9703pt x 380.17032pt>
+File: accucom.png Graphic file (type png)
+<use accucom.png>
+Package pdftex.def Info: accucom.png  used on input line 549.
+(pdftex.def)             Requested size: 495.07779pt x 218.3584pt.
+
+Overfull \hbox (6.50749pt too wide) in paragraph at lines 553--554
+\OT1/ptm/m/n/12 pared to MoveNet (45% to 75% ac-cu-racy for Me-di-aPipe com-pared to 14% to 32% ac-cu-racy for MoveNet).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 557--558
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 559--560
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 564--566
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 570--574
+
+ []
+
+<prew.png, id=116, 506.6428pt x 402.00188pt>
+File: prew.png Graphic file (type png)
+<use prew.png>
+Package pdftex.def Info: prew.png  used on input line 599.
+(pdftex.def)             Requested size: 247.5389pt x 196.41217pt.
+[15 <./accucom.png>]
+<preh.png, id=122, 490.08093pt x 384.6872pt>
+File: preh.png Graphic file (type png)
+<use preh.png>
+Package pdftex.def Info: preh.png  used on input line 607.
+(pdftex.def)             Requested size: 247.5389pt x 194.30365pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 617--618
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 619--620
+
+ []
+
+[16 <./prew.png> <./preh.png>]
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 658.
+LaTeX Info: Symbol \textrightarrow not provided by
+            font family ptm in TS1 encoding.
+            Default family used instead on input line 661.
+
+Underfull \hbox (badness 1259) in paragraph at lines 666--668
+[]|\OT1/ptm/m/n/12 - Lim-ited range of pre-dic-tion [0,1] which
+ []
+
+
+Underfull \hbox (badness 2205) in paragraph at lines 666--668
+\OT1/ptm/m/n/12 makes the cen-ter point in-con-sis-tent when
+ []
+
+[17]
+<ModelIm.drawio.png, id=133, 854.19125pt x 302.12875pt>
+File: ModelIm.drawio.png Graphic file (type png)
+<use ModelIm.drawio.png>
+Package pdftex.def Info: ModelIm.drawio.png  used on input line 679.
+(pdftex.def)             Requested size: 495.07779pt x 175.10571pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 683--684
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 685--686
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 687--689
+
+ []
+
+<pose1.png, id=134, 419.166pt x 313.77225pt>
+File: pose1.png Graphic file (type png)
+<use pose1.png>
+Package pdftex.def Info: pose1.png  used on input line 692.
+(pdftex.def)             Requested size: 198.02809pt x 148.23901pt.
+<hand3.png, id=135, 601.4972pt x 452.4403pt>
+File: hand3.png Graphic file (type png)
+<use hand3.png>
+Package pdftex.def Info: hand3.png  used on input line 693.
+(pdftex.def)             Requested size: 198.02809pt x 148.95367pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 697--698
+
+ []
+
+[18
+
+ <./ModelIm.drawio.png> <./pose1.png> <./hand3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 699--700
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 701--702
+
+ []
+
+<pose2.png, id=142, 416.15475pt x 314.3745pt>
+File: pose2.png Graphic file (type png)
+<use pose2.png>
+Package pdftex.def Info: pose2.png  used on input line 705.
+(pdftex.def)             Requested size: 198.02809pt x 149.59805pt.
+<hand2.png, id=143, 479.391pt x 359.54324pt>
+File: hand2.png Graphic file (type png)
+<use hand2.png>
+Package pdftex.def Info: hand2.png  used on input line 706.
+(pdftex.def)             Requested size: 198.02809pt x 148.52188pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 710--711
+
+ []
+
+<pose3.png, id=144, 419.76825pt x 314.3745pt>
+File: pose3.png Graphic file (type png)
+<use pose3.png>
+Package pdftex.def Info: pose3.png  used on input line 714.
+(pdftex.def)             Requested size: 198.02809pt x 148.30768pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 718--719
+
+ []
+
+<pose4.png, id=145, 419.76825pt x 314.97675pt>
+File: pose4.png Graphic file (type png)
+<use pose4.png>
+Package pdftex.def Info: pose4.png  used on input line 722.
+(pdftex.def)             Requested size: 198.02809pt x 148.59178pt.
+<all.png, id=146, 315.42844pt x 177.66376pt>
+File: all.png Graphic file (type png)
+<use all.png>
+Package pdftex.def Info: all.png  used on input line 729.
+(pdftex.def)             Requested size: 198.02809pt x 111.53838pt.
+[19 <./pose2.png> <./hand2.png> <./pose3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 735--740
+
+ []
+
+<flow4.drawio.png, id=153, 467.49657pt x 758.08218pt>
+File: flow4.drawio.png Graphic file (type png)
+<use flow4.drawio.png>
+Package pdftex.def Info: flow4.drawio.png  used on input line 750.
+(pdftex.def)             Requested size: 396.06374pt x 642.27919pt.
+[20 <./pose4.png> <./all.png>] [21 <./flow4.drawio.png>]
+<front.png, id=163, 394.47375pt x 492.03825pt>
+File: front.png Graphic file (type png)
+<use front.png>
+Package pdftex.def Info: front.png  used on input line 763.
+(pdftex.def)             Requested size: 198.02809pt x 247.00204pt.
+<back.png, id=164, 390.258pt x 492.6405pt>
+File: back.png Graphic file (type png)
+<use back.png>
+Package pdftex.def Info: back.png  used on input line 764.
+(pdftex.def)             Requested size: 198.02809pt x 249.98045pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 760--766
+
+ []
+
+[22
+
+ <./front.png> <./back.png>]
+<f3.png, id=170, 1224.07312pt x 680.5425pt>
+File: f3.png Graphic file (type png)
+<use f3.png>
+Package pdftex.def Info: f3.png  used on input line 774.
+(pdftex.def)             Requested size: 267.33867pt x 148.62946pt.
+<hallway.png, id=171, 2168.1pt x 1549.79pt>
+File: hallway.png Graphic file (type png)
+<use hallway.png>
+Package pdftex.def Info: hallway.png  used on input line 775.
+(pdftex.def)             Requested size: 217.83543pt x 155.69751pt.
+<f1.png, id=172, 974.4405pt x 546.24075pt>
+File: f1.png Graphic file (type png)
+<use f1.png>
+Package pdftex.def Info: f1.png  used on input line 780.
+(pdftex.def)             Requested size: 267.33867pt x 149.8541pt.
+<t6.jpg, id=173, 2569.6pt x 1927.2pt>
+File: t6.jpg Graphic file (type jpg)
+<use t6.jpg>
+Package pdftex.def Info: t6.jpg  used on input line 781.
+(pdftex.def)             Requested size: 217.83543pt x 163.35403pt.
+<f2.png, id=174, 1225.57875pt x 681.29532pt>
+File: f2.png Graphic file (type png)
+<use f2.png>
+Package pdftex.def Info: f2.png  used on input line 786.
+(pdftex.def)             Requested size: 267.33867pt x 148.60675pt.
+<t4.jpg, id=175, 2569.6pt x 1927.2pt>
+File: t4.jpg Graphic file (type jpg)
+<use t4.jpg>
+Package pdftex.def Info: t4.jpg  used on input line 787.
+(pdftex.def)             Requested size: 217.83543pt x 163.35403pt.
+ [23
+
+ <./f3.png> <./hallway.png> <./f1.png> <./t6.jpg> <./f2.png> <./t4.jpg>]
+<o1.png, id=184, 507.0945pt x 394.47375pt>
+File: o1.png Graphic file (type png)
+<use o1.png>
+Package pdftex.def Info: o1.png  used on input line 795.
+(pdftex.def)             Requested size: 242.59084pt x 188.71925pt.
+<ban.jpg, id=185, 2569.6pt x 1927.2pt>
+File: ban.jpg Graphic file (type jpg)
+<use ban.jpg>
+Package pdftex.def Info: ban.jpg  used on input line 796.
+(pdftex.def)             Requested size: 242.59084pt x 181.93904pt.
+<o2.png, id=186, 290.2845pt x 376.40625pt>
+File: o2.png Graphic file (type png)
+<use o2.png>
+Package pdftex.def Info: o2.png  used on input line 802.
+(pdftex.def)             Requested size: 242.59084pt x 314.56516pt.
+<4chan.jpg, id=187, 1927.2pt x 2569.6pt>
+File: 4chan.jpg Graphic file (type jpg)
+<use 4chan.jpg>
+Package pdftex.def Info: 4chan.jpg  used on input line 803.
+(pdftex.def)             Requested size: 242.59084pt x 323.43411pt.
+<o3.png, id=188, 724.50674pt x 483.0045pt>
+File: o3.png Graphic file (type png)
+<use o3.png>
+Package pdftex.def Info: o3.png  used on input line 809.
+(pdftex.def)             Requested size: 242.59084pt x 161.72827pt.
+<ghe.jpg, id=189, 2569.6pt x 1927.2pt>
+File: ghe.jpg Graphic file (type jpg)
+<use ghe.jpg>
+Package pdftex.def Info: ghe.jpg  used on input line 810.
+(pdftex.def)             Requested size: 242.59084pt x 181.93904pt.
+ [24
+
+ <./o1.png> <./ban.jpg> <./o2.png> <./4chan.jpg>]
+<o5.png, id=195, 436.63126pt x 367.3725pt>
+File: o5.png Graphic file (type png)
+<use o5.png>
+Package pdftex.def Info: o5.png  used on input line 816.
+(pdftex.def)             Requested size: 242.59084pt x 204.11276pt.
+<go.jpg, id=196, 2569.6pt x 1927.2pt>
+File: go.jpg Graphic file (type jpg)
+<use go.jpg>
+Package pdftex.def Info: go.jpg  used on input line 817.
+(pdftex.def)             Requested size: 242.59084pt x 181.93904pt.
+<o6.png, id=197, 240.9pt x 218.0145pt>
+File: o6.png Graphic file (type png)
+<use o6.png>
+Package pdftex.def Info: o6.png  used on input line 818.
+(pdftex.def)             Requested size: 242.59084pt x 219.55084pt.
+<go2.jpg, id=198, 2569.6pt x 1927.2pt>
+File: go2.jpg Graphic file (type jpg)
+<use go2.jpg>
+Package pdftex.def Info: go2.jpg  used on input line 819.
+(pdftex.def)             Requested size: 242.59084pt x 181.93904pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 825--827
+
+ []
+
+[25 <./o3.png> <./ghe.jpg> <./o5.png> <./go.jpg> <./o6.png> <./go2.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 828--831
+
+ []
+
+<game1.jpg, id=205, 1248.16313pt x 707.64375pt>
+File: game1.jpg Graphic file (type jpg)
+<use game1.jpg>
+Package pdftex.def Info: game1.jpg  used on input line 834.
+(pdftex.def)             Requested size: 346.55293pt x 196.47604pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 839--842
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 843--845
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 846--848
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 849--851
+
+ []
+
+<game2.jpg, id=206, 1260.20813pt x 707.64375pt>
+File: game2.jpg Graphic file (type jpg)
+<use game2.jpg>
+Package pdftex.def Info: game2.jpg  used on input line 856.
+(pdftex.def)             Requested size: 242.59084pt x 136.21375pt.
+<game4.jpg, id=207, 1257.94969pt x 707.64375pt>
+File: game4.jpg Graphic file (type jpg)
+<use game4.jpg>
+Package pdftex.def Info: game4.jpg  used on input line 857.
+(pdftex.def)             Requested size: 242.59084pt x 136.46208pt.
+<game5.jpg, id=208, 1257.94969pt x 707.64375pt>
+File: game5.jpg Graphic file (type jpg)
+<use game5.jpg>
+Package pdftex.def Info: game5.jpg  used on input line 858.
+(pdftex.def)             Requested size: 242.59084pt x 136.46208pt.
+<game6.jpg, id=209, 1257.94969pt x 707.64375pt>
+File: game6.jpg Graphic file (type jpg)
+<use game6.jpg>
+Package pdftex.def Info: game6.jpg  used on input line 859.
+(pdftex.def)             Requested size: 242.59084pt x 136.46208pt.
+<game7.jpg, id=210, 1257.94969pt x 707.64375pt>
+File: game7.jpg Graphic file (type jpg)
+<use game7.jpg>
+Package pdftex.def Info: game7.jpg  used on input line 860.
+(pdftex.def)             Requested size: 242.59084pt x 136.46208pt.
+[26 <./game1.jpg>]
+<game8.jpg, id=214, 1257.94969pt x 707.64375pt>
+File: game8.jpg Graphic file (type jpg)
+<use game8.jpg>
+Package pdftex.def Info: game8.jpg  used on input line 868.
+(pdftex.def)             Requested size: 321.79753pt x 181.02444pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 873--874
+
+ []
+
+[27 <./game2.jpg> <./game4.jpg> <./game5.jpg> <./game6.jpg> <./game7.jpg> <./game8.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 875--876
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 877--878
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 879--880
+
+ []
+
+<game3.jpg, id=218, 1257.94969pt x 707.64375pt>
+File: game3.jpg Graphic file (type jpg)
+<use game3.jpg>
+Package pdftex.def Info: game3.jpg  used on input line 885.
+(pdftex.def)             Requested size: 420.81914pt x 236.7193pt.
+[28 <./game3.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 891--892
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 893--894
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 895--896
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 897--899
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 900--901
+
+ []
+
+<game13.jpg, id=222, 1257.94969pt x 707.64375pt>
+File: game13.jpg Graphic file (type jpg)
+<use game13.jpg>
+Package pdftex.def Info: game13.jpg  used on input line 904.
+(pdftex.def)             Requested size: 420.81914pt x 236.7193pt.
+[29
+
+ <./game13.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 910--911
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 912--913
+
+ []
+
+<game11.jpg, id=227, 1257.94969pt x 707.64375pt>
+File: game11.jpg Graphic file (type jpg)
+<use game11.jpg>
+Package pdftex.def Info: game11.jpg  used on input line 917.
+(pdftex.def)             Requested size: 242.59084pt x 136.46208pt.
+<game12.jpg, id=228, 1257.94969pt x 707.64375pt>
+File: game12.jpg Graphic file (type jpg)
+<use game12.jpg>
+Package pdftex.def Info: game12.jpg  used on input line 918.
+(pdftex.def)             Requested size: 242.59084pt x 136.46208pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 922--923
+
+ []
+
+<game9.jpg, id=229, 1257.94969pt x 707.64375pt>
+File: game9.jpg Graphic file (type jpg)
+<use game9.jpg>
+Package pdftex.def Info: game9.jpg  used on input line 928.
+(pdftex.def)             Requested size: 242.59084pt x 136.46208pt.
+<game10.jpg, id=230, 1257.94969pt x 707.64375pt>
+File: game10.jpg Graphic file (type jpg)
+<use game10.jpg>
+Package pdftex.def Info: game10.jpg  used on input line 929.
+(pdftex.def)             Requested size: 242.59084pt x 136.46208pt.
+[30
+
+ <./game11.jpg> <./game12.jpg> <./game9.jpg> <./game10.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 969--970
+
+ []
+
+
+Overfull \hbox (52.92226pt too wide) in paragraph at lines 973--977
+[][] 
+ []
+
+[31
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1045--1046
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1064--1069
+
+ []
+
+[32
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1070--1072
+
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 1090--1092
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1093--1095
+
+ []
+
+<survey1.png, id=243, 554.07pt x 618.81187pt>
+File: survey1.png Graphic file (type png)
+<use survey1.png>
+Package pdftex.def Info: survey1.png  used on input line 1098.
+(pdftex.def)             Requested size: 173.28024pt x 193.52931pt.
+<survey2.png, id=244, 545.78906pt x 622.57594pt>
+File: survey2.png Graphic file (type png)
+<use survey2.png>
+Package pdftex.def Info: survey2.png  used on input line 1099.
+(pdftex.def)             Requested size: 173.28024pt x 197.6609pt.
+<survey3.png, id=245, 539.76656pt x 619.56468pt>
+File: survey3.png Graphic file (type png)
+<use survey3.png>
+Package pdftex.def Info: survey3.png  used on input line 1100.
+(pdftex.def)             Requested size: 173.28024pt x 198.89815pt.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 1104.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 1119.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1134--1135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1136--1138
+
+ []
+
+[34
+
+ <./survey1.png> <./survey2.png> <./survey3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1142--1143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1144--1145
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1146--1148
+
+ []
+
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 1155--1156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1157--1158
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1159--1160
+
+ []
+
+
+Overfull \hbox (2.19322pt too wide) in paragraph at lines 1161--1162
+[]\OT1/ptm/m/n/12 Experimental val-i-da-tion, in-clud-ing dis-tance sen-si-tiv-ity anal-y-sis, re-sponse time eval-u-a-tion, and caloric
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1161--1162
+
+ []
+
+[36
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1166--1167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1168--1169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1170--1171
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1172--1173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1174--1175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1176--1177
+
+ []
+
+[37
+
+] (Draft_report.bbl
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 12.
+ (C:\Users\stdso\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Underfull \hbox (badness 1642) in paragraph at lines 9--13
+[]\OT1/ptm/m/n/12 Calories burned in 30 min-utes of leisure and rou-tine ac-tiv-i-ties.  Har-vard Health, July
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--13
+\OT1/ptm/m/n/12 2004.  URL $\OT1/pcr/m/n/12 https : / / www . health . harvard . edu / diet-[]and-[]weight-[]loss /
+ []
+
+
+Overfull \hbox (21.18886pt too wide) in paragraph at lines 9--13
+\OT1/pcr/m/n/12 calories-[]burned-[]in-[]30-[]minutes-[]for-[]people-[]of-[]three-[]different-[]weights$\OT1/ptm/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 4403) in paragraph at lines 15--19
+[]\OT1/ptm/m/n/12 How many calo-ries does jog-ging for 30 min-utes a day burn?  Vin-mec, 2019.
+ []
+
+
+Underfull \hbox (badness 2689) in paragraph at lines 41--46
+[]\OT1/ptm/m/n/12 I. Baum.  How to burn more calo-ries on your morn-ing com-mute.  Men's Health,
+ []
+
+
+Underfull \hbox (badness 4621) in paragraph at lines 41--46
+\OT1/ptm/m/n/12 Novem-ber 2018.  URL $\OT1/pcr/m/n/12 https : / / www . menshealth . com / fitness / g25358696 /
+ []
+
+
+Underfull \hbox (badness 2343) in paragraph at lines 76--81
+[]\OT1/ptm/m/n/12 M. En-glish.  Squat fat burn: How many calo-ries do squats burn?  Marca, Jan-
+ []
+
+[38
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 146--151
+[]\OT1/ptm/m/n/12 J. Sherbal.  Wii sports: The tech demo that changed how we game.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--151
+\OT1/ptm/m/n/12 Medium, Septem-ber 2020.  URL $\OT1/pcr/m/n/12 https : / / sherbal-[]j . medium . com /
+ []
+
+
+Underfull \hbox (badness 2894) in paragraph at lines 153--158
+[]\OT1/ptm/m/n/12 Tom Wi-j-man.  New-zoo's year in re-view: The 2023 global games mar-ket in num-
+ []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 153--158
+\OT1/ptm/m/n/12 bers.  New-zoo, De-cem-ber 2023.  URL $\OT1/pcr/m/n/12 https : / / newzoo . com / resources / blog /
+ []
+
+) [39] (Draft_report.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 18081 strings out of 474486
+ 353891 string characters out of 5743755
+ 1948542 words of memory out of 5000000
+ 40030 multiletter control sequences out of 15000+600000
+ 588191 words of font info for 88 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 84i,17n,93p,909b,620s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\stdso\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/stdso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/stdso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/stdso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/stdso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/stdso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/stdso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/stdso/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/stdso/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/stdso/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/stdso/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/stdso/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Draft_report.pdf (47 pages, 27890089 bytes).
+PDF statistics:
+ 322 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 338 words of extra memory for PDF output out of 10000 (max. 10000000)
+
