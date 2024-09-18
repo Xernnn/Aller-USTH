@@ -4,17 +4,11 @@
 
 **Aller! USTH** is a physical enhancement gaming application developed to merge fitness with gameplay, using advanced pose estimation technology. This project aims to combat sedentary behavior among students and young adults by encouraging regular physical activity through engaging and interactive gameplay.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Key Features](#key-features)
-- [Technology Stack](#technology-stack)
-- [Installation](#installation)
-- [Game Modes](#game-modes)
-
 ## Introduction
 
 In today’s digital age, video games have become a dominant form of entertainment. However, this has led to increased sedentary behavior among young adults, resulting in various health issues. **Aller! USTH** addresses this problem by merging physical activity with engaging gameplay, utilizing pose estimation models to ensure accurate and responsive movement tracking.
+
+![game1](https://github.com/user-attachments/assets/0b22163c-4540-45fa-846a-e05dcca88569)
 
 ## Key Features
 
@@ -77,5 +71,11 @@ In today’s digital age, video games have become a dominant form of entertainme
 ## Game Modes
 
 - **(main) Endless-Running Mode:** Navigate through hallways by moving left, right, jumping, and crouching to avoid obstacles and collect coins.
+![game2](https://github.com/user-attachments/assets/db2a4374-2782-4c98-ba64-322885fae597)
+
 - **Object-Slicing Mode:** Slice through objects using hand movements, inspired by Fruit Ninja game.
+![game3](https://github.com/user-attachments/assets/bfd6a395-fdaa-4aa5-bbcb-1cc36b4ebbc7)
+
 - **Shape-Fitting Mode:** Fit through incoming shapes by adjusting your body posture, inspired by Hole in the Wall game.
+![game13](https://github.com/user-attachments/assets/496e8758-1179-4468-8279-6444f5b9480e)
+
